@@ -85,5 +85,5 @@ You are required to submit the following:
 
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/cuWJUyqb5Sk)
+[![Watch the video](lol.jgp)](https://youtu.be/cuWJUyqb5Sk)
 

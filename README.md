@@ -84,6 +84,6 @@ You are required to submit the following:
 * A video demonstrating the entirety of the app's functionality 
 
 
+# Demo Link 
 
-[![Watch the video](lol.jgp)](https://youtu.be/cuWJUyqb5Sk)
-
+![watch a Demo of The application](https://youtu.be/cuWJUyqb5Sk)
